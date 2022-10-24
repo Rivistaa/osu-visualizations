@@ -4,7 +4,7 @@ A collection of various statistics and visualizations about the rhythm game osu!
 
 Basically anything that comes to my mind
 
-This repo assumes you have a MariaDB server hosting a data dump from https://data.ppy.sh/, specifically the 10000 user dumps. 
+This repo assumes you have a MariaDB server hosting a data dump from https://data.ppy.sh/, specifically the 10,000 user dumps. 
 
 
 # Current Scripts
